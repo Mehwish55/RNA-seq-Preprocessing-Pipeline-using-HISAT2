@@ -1,0 +1,11 @@
+*.bam
+*.sam
+*.fastq
+*.fastq.gz
+*.fa
+*.fasta
+*.ht2
+*.bt2
+*.bai
+_STARtmp/
+GenomeDir/
